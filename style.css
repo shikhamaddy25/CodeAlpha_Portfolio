@@ -298,3 +298,28 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
+.resume-section {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.resume-section p {
+  margin: 15px 0 25px;
+}
+
+.resume-section .btn {
+  display: inline-block;
+  margin: 8px;
+  padding: 12px 22px;
+  background: #6366f1;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: 0.3s;
+}
+
+.resume-section .btn:hover {
+  background: #4f46e5;
+  transform: translateY(-3px);
+}
