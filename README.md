@@ -77,7 +77,9 @@ My resume is included in the project and can be viewed or downloaded directly fr
 
 This portfolio can be deployed using **GitHub Pages** to make it accessible online.
 
-The live website link will be added here after deployment.
+## Live Demo
+
+Visit my portfolio website: [View Portfolio](https://shikhamaddy25.github.io/CodeAlpha_Portfolio/)
 
 ---
 
